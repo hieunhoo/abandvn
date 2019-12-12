@@ -1,0 +1,140 @@
+! 24/11/2019 https://www.youtube.com
+www.youtube.com###video-masthead
+
+! 26/11/2019 https://urgkq.com
+urgkq.com##ul:nth-of-type(3)
+urgkq.com##h2
+
+! 26/11/2019 urgkq.com
+||pegloang.com^$popup
+
+! 26/11/2019 https://urgkq.com
+urgkq.com##p
+urgkq.com##center > ul
+
+! 26/11/2019 https://www.up-4ever.org
+www.up-4ever.org##.my-5 > ins.adsbygoogle
+
+! 26/11/2019 up-4ever.org
+||zugnogne.com^$popup
+
+! 26/11/2019 https://www.up-4ever.org
+www.up-4ever.org###gdpr-cookie-notice
+
+! 26/11/2019 up-4ever.org
+||choigo88.xyz^$popup
+
+! 27/11/2019 https://ouo.io
+ouo.io###rn_ad_native_e3iwk
+
+! 27/11/2019 https://ouo.press
+ouo.press###rn_ad_native_o4go3
+
+! 28/11/2019 https://dl.blackmod.net
+dl.blackmod.net###intro
+dl.blackmod.net###one
+dl.blackmod.net###two
+dl.blackmod.net###content
+
+! 28/11/2019 https://fstore.biz
+fstore.biz##div:nth-of-type(4) > .adsbygoogle
+fstore.biz##div.file-box:nth-of-type(2)
+fstore.biz##div.file-box:nth-of-type(3)
+
+! 28/11/2019 https://www.uploadship.com
+www.uploadship.com##.Mod\.apk.v1\.0\.0.Out.Brain.CURRENT_PAGE_KEYWxrea.PLAYER.pages
+www.uploadship.com##.download > center:nth-of-type(1)
+www.uploadship.com##center:nth-of-type(2) > center > .adsbygoogle
+www.uploadship.com##center:nth-of-type(4) > center
+www.uploadship.com##div.file-box:nth-of-type(3)
+www.uploadship.com##div.row:nth-of-type(4)
+www.uploadship.com##td:nth-of-type(1) > center > .adsbygoogle
+
+! 28/11/2019 https://www.uploadship.com
+www.uploadship.com##center:nth-of-type(3)
+www.uploadship.com##div.file-box:nth-of-type(7)
+www.uploadship.com##div.file-box:nth-of-type(4)
+www.uploadship.com##.share
+www.uploadship.com##.UPFS
+www.uploadship.com##div.file-box:nth-of-type(8)
+www.uploadship.com##.cp
+www.uploadship.com###navbar
+www.uploadship.com##.US_F_ADS
+www.uploadship.com##div.file-box:nth-of-type(5) > .fa-ul
+www.uploadship.com##div:nth-of-type(1) > div:nth-of-type(2) > div.row:nth-of-type(1)
+www.uploadship.com##div.row:nth-of-type(6) > .col-md-offset-2.col-lg-8.col-md-8.col-sm-12.col-xs-12
+www.uploadship.com##div.file-box:nth-of-type(5)
+www.uploadship.com##tbody > tr:nth-of-type(1)
+www.uploadship.com##tr:nth-of-type(2)
+www.uploadship.com##tr:nth-of-type(3)
+www.uploadship.com##thead > tr
+www.uploadship.com##tr:nth-of-type(4)
+www.uploadship.com##tr:nth-of-type(5)
+www.uploadship.com##tr:nth-of-type(6)
+www.uploadship.com##tr:nth-of-type(7)
+www.uploadship.com##tr:nth-of-type(8)
+
+! 30/11/2019 https://lauxanh.org
+lauxanh.org##.happy-footer
+lauxanh.org###_no-clickjacking-0
+lauxanh.org##.happy-inside-player
+
+! 30/11/2019 https://www.pornhub.com
+www.pornhub.com##.alpha.sniperModeEngaged
+www.pornhub.com###pb_block
+
+! 30/11/2019 https://www.brazzers.com
+www.brazzers.com##.promo-active.cta-btn.floating-join-cta
+
+! 30/11/2019 https://androidrepublic.org
+androidrepublic.org###header
+
+! 30/11/2019 https://apkmos.com
+apkmos.com##.td_block_template_1.td_uid_2_5de2907b9449d_rand.td-g-rec-id-content_top.td-g-rec
+apkmos.com##.td_block_template_1.td_uid_2_5de292dd760f9_rand.td-g-rec-id-content_top.td-g-rec
+apkmos.com##.adsbygoogle
+apkmos.com##.td_block_template_1.td_uid_1_5de292dd694e1_rand.td-g-rec-id-header.td-g-rec
+
+! 4/12/2019 https://fstore.biz
+fstore.biz##.at-box-file.col-md-12 > .adsbygoogle
+fstore.biz##.at-box-info.panel-primary.panel > .row > .col-md-12 > .adsbygoogle
+fstore.biz###ads-rel > .adsbygoogle
+fstore.biz###cap-top > .adsbygoogle
+
+! 4/12/2019 https://www.uploadship.com
+www.uploadship.com##.\(2\)\.apk.fap-ceo-men-stream_918.CURRENT_PAGE_KEYWxrea.PLAYER.pages
+
+! 8/12/2019 https://gplinks.in
+gplinks.in##p
+
+! 8/12/2019 gplinks.in
+||gplinks.in^$popup
+
+! 8/12/2019 techrou.com
+||www.google.com/favicon.ico$popup
+
+! 8/12/2019 https://techrou.com
+techrou.com##p
+techrou.com##h2
+techrou.com##center > ul
+
+! 10/12/2019 https://downmienphi.net
+downmienphi.net##.mb-3.mt-3.col-md-12
+downmienphi.net##.mb-5.text-primary
+
+! 10/12/2019 https://apkpure.com
+apkpure.com###policy-info
+
+! 11/12/2019 https://megaurl.in
+megaurl.in##.truepush_optin_notifications
+
+! 12/12/2019 https://turtmax.com
+turtmax.com##p
+turtmax.com##ul
+turtmax.com##h2
+
+! 12/12/2019 https://up-load.io
+up-load.io##center > li
+up-load.io##div > li
+up-load.io###gdpr-cookie-notice
+up-load.io##div.col-md-4:nth-of-type(3) > .ads
