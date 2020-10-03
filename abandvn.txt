@@ -1,140 +1,621 @@
-! 24/11/2019 https://www.youtube.com
-www.youtube.com###video-masthead
+! 2020-09-13 https://www.yeumod.top
+www.yeumod.top###arlinablock
 
-! 26/11/2019 https://urgkq.com
-urgkq.com##ul:nth-of-type(3)
-urgkq.com##h2
+! 2020-09-14 https://h5.vgm.vn
+h5.vgm.vn##.tips-box
 
-! 26/11/2019 urgkq.com
+
+! 2020-09-20 https://buoito.vip
+buoito.vip###film-content-wrapper > div:nth-of-type(2)
+buoito.vip###video
+
+! 2020-09-20 https://24hphim.net
+24hphim.net###pc-top-banner
+24hphim.net###divAdRight
+24hphim.net###pc-bottom-player
+24hphim.net###pc-top-player
+24hphim.net###divAdLeft
+
+! 2020-09-23 https://hentaiz.net
+hentaiz.net###rmcard1
+hentaiz.net###rmcard
+hentaiz.net##.hidden-mobile
+
+! 2020-09-15 https://memoryhackers.org
+memoryhackers.org##.js-bottomFixTarget.u-bottomFixer
+memoryhackers.org##.ads-header
+memoryhackers.org##.js-replyNewMessageContainer.block-body > div.ads:nth-of-type(2) > .adsbygoogle
+memoryhackers.org##.p-body-sidebar > div.ads:nth-of-type(2) > .adsbygoogle
+memoryhackers.org##.p-body-sidebar > div.ads:nth-of-type(1) > .adsbygoogle
+memoryhackers.org##.js-replyNewMessageContainer.block-body > div.ads:nth-of-type(1) > .adsbygoogle
+ui.memoryhackers.org##.col-md-5.gamesDetails
+ui.memoryhackers.org##.gameadsh > .adsbygoogle
+ui.memoryhackers.org##div.gameads:nth-of-type(3) > .adsbygoogle
+ui.memoryhackers.org##.gamesDetail.mceTmpl
+ui.memoryhackers.org##.show.fade.alert-dismissible.dont-block-this-info-message.alert
+
+
+!========================Bộ Lọc ẩn========================
+@@|113hackgame.com|qthang.net$generichide
+facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Được tài trợ/)
+
+!========================Pop-up========================
+||pigwinspath.icu^$popup
+||wildbearads.g2afse.com^$popup
+||estiondereven.site^$popup
+||privatedq.club^$popup
+||wedneckekij.club^$popup
+||infopicked.com^$popup
+||uthorner.info^$popup
+||glazinesveraf.club^$popup
+||gadsims.com^$popup
+||tsyndicate.com^$popup
+||slideff.com^$popup
+||glishais.net^$popup
+||graivaik.com^$popup
+||sdownload.net^$popup
+||syndication.exdynsrv.com^$popup
+||diginamis.com^$popup
+||macau.club^$popup
+||ueuodgnrhb.com
+||tai789.top
+||shqbsdjatunl.com
+||trk10.com
+||betteradsystem.com
+||topblockchainsolutions.nl^$popup
+||v.trackidea.xyz^$popup
+||islandmob.com^$popup
+||linkme.online^popup
+||upload4earn.org^$popup
+||a.adtng.com^$popup
+||grubsoan.com^$popup
+||ltljm.voluumtrk.com^$popup
+||iqoption.com^$popup
+||areantaid.site^$popup
+||affiliates.natifico600.com^$popup
+||tracking.prmtracking.com^$popup
+||install.speedomizer.com^$popup
+||grooksom.com^$popup
+||dembuon.vn^$popup
+||snowdayonline.xyz^$popup
+||syndication.exosrv.com^$popup
+||terrapsps.com^$popup
+||myoffice-24.ru^$popup
+||static.olymptrade.com^$popup
+||ladsats.com^$popup
+||superimad.com^$popup
+||vpn-freeproxy.com^$popup
+||bnsjb1ab1e.com^$popup
+||yr9n47004g.com^$popup
+||bnsjb1ab1e.com^^$popup
+||yr9n47004g.com^$popup
+||cjl58f3agc.com^$popup
+||0byv9mgbn0.com^$popup
+||adexchangegate.com^$popup
+||myornamenti.com^$popup
+||myornamenti.com^$popup
+||eu.dspmulti.com^$popup
+||susm0q6jys.com^$popup
+||l6b587txj1.com^$popup
+||65vk1fba34.com^$popup
+||privetonline.ru^$popup
+||click.bestcaptcha.support^$popup
+||wdnqqmfw.com^$popup
+||creditsansjustificatif.me^$popup
+|about:$popup,domain=phimsieunet.com
+||shorteh.com^$popup
+||shortex.net^$popup
+||getalinkandshare.com^$popup
 ||pegloang.com^$popup
+||install.getlive.news^$popup
+||artandand.online^$popup
+||chaglihysty.pro^$popup
+||worldofwarships.com^$popup
+||kerumal.com^$popup
+||allashark.site^$popup
+||airartapt.site^$popup
+||kar.uptoabc.com^$popup
+||t8mfz24c5.com^$popup
+||t.riverhit.com^$popup
+||oalselry.com^$popup
+||notification-list.com^$popup
+||uqelijcu.com^$popup
+||xpx7heciz9.com^$popup
+||codedexchange.com^$popup
+||shitiphu.com^$popup
+||install.pdf-maker.com^$popup
+||static.olymptrade.com^$popup
+||petchesa.net^$popup
+||c.adsco.re^$popup
+||forbackup.xyz^$popup
+||1generated1.com^$popup
+||besthpath.club^$popup
+||bestcond1tions.com^$popup
+||rdsb2.club^$popup
+||ilkmawgod.site^$popup
+||c.zetadeo.com^$popup
+||duginamis.com^$popup
+||taiv8.com^$popup
+||funwarcab.club^$popup
+||razorphim.com^$popup
+||ptoushoa.com^$popup
+||push.adsconverts.com^$popup
+||get.jwptq.com^$popup
+||get.update-search.com^$popup
+||trk.storiespace.com^$popup
+||itpatratr.com^$popup
+||tipcuoc88.com^$popup
+||rosilyloompap.work^$popup
+||usd.gerfrid-nil.com^$popup
+||www.yes24.vn^$popup
 
-! 26/11/2019 https://urgkq.com
-urgkq.com##p
-urgkq.com##center > ul
+!========================Pop-up-domain========================
 
-! 26/11/2019 https://www.up-4ever.org
-www.up-4ever.org##.my-5 > ins.adsbygoogle
+||downmienphi.net/themes/uploadfly/images/main_logo_inverted.png$popup,first-party
+||uurniqkjftiuh.com^$popup,domain=www.gtainside.com
+||log.trendingnow.video^$popup,domain=www.gtainside.com
+||4-short.info^$popup,domain=up-load.io
+||getdirtyusa.com^$popup,domain=up-load.io
 
-! 26/11/2019 up-4ever.org
-||zugnogne.com^$popup
+!========================Cookie========================
+androidrepublic.org##.notice--cookie.notice--primary.js-notice.notice
+douploads.com###gdpr-cookie-notice
+memoryhackers.org##.notice--cookie.notice--primary.js-notice.notice
+www.pornhub.com##.cookieBanner
 
-! 26/11/2019 https://www.up-4ever.org
-www.up-4ever.org###gdpr-cookie-notice
-
-! 26/11/2019 up-4ever.org
-||choigo88.xyz^$popup
-
-! 27/11/2019 https://ouo.io
-ouo.io###rn_ad_native_e3iwk
-
-! 27/11/2019 https://ouo.press
-ouo.press###rn_ad_native_o4go3
-
-! 28/11/2019 https://dl.blackmod.net
-dl.blackmod.net###intro
-dl.blackmod.net###one
-dl.blackmod.net###two
-dl.blackmod.net###content
-
-! 28/11/2019 https://fstore.biz
-fstore.biz##div:nth-of-type(4) > .adsbygoogle
-fstore.biz##div.file-box:nth-of-type(2)
-fstore.biz##div.file-box:nth-of-type(3)
-
-! 28/11/2019 https://www.uploadship.com
-www.uploadship.com##.Mod\.apk.v1\.0\.0.Out.Brain.CURRENT_PAGE_KEYWxrea.PLAYER.pages
-www.uploadship.com##.download > center:nth-of-type(1)
-www.uploadship.com##center:nth-of-type(2) > center > .adsbygoogle
-www.uploadship.com##center:nth-of-type(4) > center
-www.uploadship.com##div.file-box:nth-of-type(3)
-www.uploadship.com##div.row:nth-of-type(4)
-www.uploadship.com##td:nth-of-type(1) > center > .adsbygoogle
-
-! 28/11/2019 https://www.uploadship.com
-www.uploadship.com##center:nth-of-type(3)
-www.uploadship.com##div.file-box:nth-of-type(7)
-www.uploadship.com##div.file-box:nth-of-type(4)
-www.uploadship.com##.share
-www.uploadship.com##.UPFS
-www.uploadship.com##div.file-box:nth-of-type(8)
-www.uploadship.com##.cp
-www.uploadship.com###navbar
-www.uploadship.com##.US_F_ADS
-www.uploadship.com##div.file-box:nth-of-type(5) > .fa-ul
-www.uploadship.com##div:nth-of-type(1) > div:nth-of-type(2) > div.row:nth-of-type(1)
-www.uploadship.com##div.row:nth-of-type(6) > .col-md-offset-2.col-lg-8.col-md-8.col-sm-12.col-xs-12
-www.uploadship.com##div.file-box:nth-of-type(5)
-www.uploadship.com##tbody > tr:nth-of-type(1)
-www.uploadship.com##tr:nth-of-type(2)
-www.uploadship.com##tr:nth-of-type(3)
-www.uploadship.com##thead > tr
-www.uploadship.com##tr:nth-of-type(4)
-www.uploadship.com##tr:nth-of-type(5)
-www.uploadship.com##tr:nth-of-type(6)
-www.uploadship.com##tr:nth-of-type(7)
-www.uploadship.com##tr:nth-of-type(8)
-
-! 30/11/2019 https://lauxanh.org
-lauxanh.org##.happy-footer
-lauxanh.org###_no-clickjacking-0
-lauxanh.org##.happy-inside-player
-
-! 30/11/2019 https://www.pornhub.com
+! https://www.pornhub.com
+www.pornhub.com###abAlert
 www.pornhub.com##.alpha.sniperModeEngaged
-www.pornhub.com###pb_block
+fr.pornhub.com##.alpha.sniperModeEngaged
+www.pornhub.com###\31 584265759042
+www.pornhub.com###\31 584266073220
+www.pornhub.com###\31 584266115596
+www.pornhub.com###\31 584440575892
+www.pornhub.com###\31 584440680550
+fr.pornhub.com###pb_block
+fr.pornhub.com###abAlert
 
-! 30/11/2019 https://www.brazzers.com
-www.brazzers.com##.promo-active.cta-btn.floating-join-cta
-
-! 30/11/2019 https://androidrepublic.org
-androidrepublic.org###header
-
-! 30/11/2019 https://apkmos.com
-apkmos.com##.td_block_template_1.td_uid_2_5de2907b9449d_rand.td-g-rec-id-content_top.td-g-rec
-apkmos.com##.td_block_template_1.td_uid_2_5de292dd760f9_rand.td-g-rec-id-content_top.td-g-rec
-apkmos.com##.adsbygoogle
-apkmos.com##.td_block_template_1.td_uid_1_5de292dd694e1_rand.td-g-rec-id-header.td-g-rec
-
-! 4/12/2019 https://fstore.biz
-fstore.biz##.at-box-file.col-md-12 > .adsbygoogle
-fstore.biz##.at-box-info.panel-primary.panel > .row > .col-md-12 > .adsbygoogle
-fstore.biz###ads-rel > .adsbygoogle
-fstore.biz###cap-top > .adsbygoogle
-
-! 4/12/2019 https://www.uploadship.com
-www.uploadship.com##.\(2\)\.apk.fap-ceo-men-stream_918.CURRENT_PAGE_KEYWxrea.PLAYER.pages
-
-! 8/12/2019 https://gplinks.in
-gplinks.in##p
-
-! 8/12/2019 gplinks.in
-||gplinks.in^$popup
-
-! 8/12/2019 techrou.com
-||www.google.com/favicon.ico$popup
-
-! 8/12/2019 https://techrou.com
-techrou.com##p
-techrou.com##h2
-techrou.com##center > ul
-
-! 10/12/2019 https://downmienphi.net
-downmienphi.net##.mb-3.mt-3.col-md-12
+! https://downmienphi.com/
+downmienphi.com###fanback
+downmienphi.net##.alert-warning.alert
+downmienphi.net##.wizard-1.wizard-container
 downmienphi.net##.mb-5.text-primary
 
-! 10/12/2019 https://apkpure.com
-apkpure.com###policy-info
+upload4earn.org##.cc-color-override--2136626901.cc-bottom.cc-theme-edgeless.cc-type-info.cc-banner.cc-window
+upload4earn.org##[href="javascript:void(0);"]
 
-! 11/12/2019 https://megaurl.in
-megaurl.in##.truepush_optin_notifications
+douploads.com##[src="/images/StartDownload.gif"]
+upload.ac##.text-center.col-md-12.dl-plus
 
-! 12/12/2019 https://turtmax.com
-turtmax.com##p
-turtmax.com##ul
-turtmax.com##h2
+! Brazzer
+www.brazzers.com###cta-floater
+www.brazzers.com##.promo-active.cta-btn.floating-join-cta
+||static-tour-vz.brazzerscontent.com/Brazzers/BrazzersCom/Common/assets/common/img/layout/backgrounds/bg-lines.png$image
 
-! 12/12/2019 https://up-load.io
-up-load.io##center > li
-up-load.io##div > li
-up-load.io###gdpr-cookie-notice
-up-load.io##div.col-md-4:nth-of-type(3) > .ads
+licklink.net##.banner-captcha.banner
+123link.vip##.dark.ads-block-warning
+mshare.io##.in.fade.modal
+mshare.io##.in.fade.modal-backdrop
+||e9geolgzk6.com^
+||assets-ec.realitykingscontent.com/Rk/Base/Tour/assets/img/footers/default/pc/background.png$image
+
+! 31/8/2019 https://megaurl.in
+||megaurl.in/u6iyMx4.png$image
+||megaurl.in/u6iyMx4.png$image
+megaurl.in##[src="u6iyMx4.png"]
+megaurl.in##.banner-captcha.banner
+megaurl.in##.banner-728x90.banner
+taihack.net###_pn_1562159211440
+taihack.net###_pn_1562159252918
+
+4cash.me##.row > h1 > [href^="http://www.predictivdisplay.com/jump/next.php"]
+4cash.me##.buttonads
+4cash.me##[href="#!"]
+4cash.me##.box-main > .banner-captcha.banner
+4cash.me###_pn_1562750559597
+4cash.me##.container > .banner-captcha.banner
+ukshare.net###secondary
+ukshare.net##.single-post-wrapper > .rating-area
+! 27/7/2019 https://files.pw
+files.pw##.alert-danger.alert
+files.pw##.adscenter
+files.pw##.regcontentdown.regcontent > div.row:nth-of-type(1)
+files.pw##div.col-sm-4:nth-of-type(1) > .adscenter3
+files.pw##div.adscenter2:nth-of-type(3)
+files.pw##div.adscenter2:nth-of-type(1)
+
+active.cytbs.com###content > h2:nth-of-type(1)
+active.cytbs.com##h2:nth-of-type(2)
+cytbs.com##p:nth-of-type(2)
+cytbs.com##.article-main-image-bg
+cytbs.com##.article-content > div:nth-of-type(1)
+cytbs.com##.article-content > div:nth-of-type(2)
+cytbs.com##.article-content > div:nth-of-type(3)
+cytbs.com##.article-content > ul
+cytbs.com##.article-content > h3
+cytbs.com##p:nth-of-type(4)
+cytbs.com##.article-content > p:nth-of-type(1)
+cytbs.com##p:nth-of-type(3)
+
+! sharemods.com
+sharemods.com###crt-4511e668
+sharemods.com###container > center:nth-of-type(1)
+sharemods.com##.title > center
+sharemods.com##.free.col-6 > ul
+sharemods.com##.premium.col-6 > ul
+sharemods.com##.clearfix.\31 -step.download.container1 > center:nth-of-type(2)
+sharemods.com##.time-to-share
+sharemods.com##.qKGpRvkpgxD8Mj66
+sharemods.com###e5bc386af91e
+
+||lh3.googleusercontent.com/proxy/FestA87ik4r4iFw2BUKc8VbcaIT-_akCakS0TWwUOLsPNnRlQndOF6B-RNc3x2deES80MMg2R3uF_gmC7I-Vr6j8_jIiqoVTQWKAubpI-b7aazhvVANpew=s0-d$image
+||1.bp.blogspot.com/-iRhnF7kRPlM/XQZTDdlTUdI/AAAAAAAABpM/-iIuTIte7RcUxEIjyMGVp2yHjhaAO-nPQCK4BGAYYCw/s1600/Ephoto360.com_15d0651dc0d018.jpg$image
+www.hackpubgm.com###banner
+
+! 13/7/2019 https://androidrepublic.org
+androidrepublic.org###header
+! https://lauxanh.org
+lauxanh.org##.video-archive-ad
+||lauxanh.org/wp-content/themes/kingtube/assets/img/banners/leaderboard.jpg$image
+lauxanh.org###_no-clickjacking-0
+lauxanh.org##body > div:nth-of-type(5)
+lauxanh.org###custom_html-7
+lauxanh.org###custom_html-2
+lauxanh.org##.happy-inside-player
+lauxanh.org##.happy-under-player
+lauxanh.org###custom_html-4
+lauxanh.org##.sidebar-ads
+
+! 27/7/2019 https://sieuanhdep.com
+sieuanhdep.com##.content-post
+sieuanhdep.com##div.panel-body:nth-of-type(2)
+
+! 27/7/2019 https://dl.gamepay.site
+dl.gamepay.site##.alert-warning.alert
+dl.gamepay.site##.mb-5.text-primary
+
+! 27/7/2019 https://fstore.biz
+fstore.biz###cap-top > div:nth-of-type(4)
+fstore.biz##.text-center > p
+fstore.biz##.at-box-info.panel-primary.panel > .row
+fstore.biz##div.file-box:nth-of-type(3)
+fstore.biz##div.file-box:nth-of-type(2)
+fstore.biz##.at-box-info-content > .row
+fstore.biz##.panel-body > div
+fstore.biz##div.row:nth-of-type(1)
+
+! 30/7/2019 https://hentaiz.net
+hentaiz.net##a[href^="https://11bet.net/"]:nth-of-type(1)
+! 1/8/2019 gtainside.com
+
+! 1/8/2019 https://1millioncreative.com
+1millioncreative.com###masthead
+
+! 26/8/2019 https://ckk.ai
+ckk.ai##div:nth-of-type(4)
+
+! 26/8/2019 https://www.fshare.vn
+www.fshare.vn##.quang-cao-top
+www.fshare.vn##.quang-cao-ben-trai
+www.fshare.vn##.quang-cao-ben-phai
+www.fshare.vn##.quang-cao-bottom
+
+! 26/8/2019 https://wikiall.org
+wikiall.org##p:nth-of-type(2)
+
+! 3/9/2019 https://platinmods.com
+platinmods.com##.p-body-content > .samCodeUnit > .samItem > center > .adsbygoogle
+platinmods.com##.samItem > .adsbygoogle
+platinmods.com##.js-enablePushContainer.notice--enablePush.notice--primary.js-notice.notice
+platinmods.com##.js-replyNewMessageContainer.block-body > .samCodeUnit > .samItem > center > .adsbygoogle
+platinmods.com##.uix_contentWrapper > .samCodeUnit > .samItem > center > .adsbygoogle
+platinmods.com##.js-bottomFixTarget.u-bottomFixer
+platinmods.com##.structItemContainer > .samCodeUnit > .samItem > center > .adsbygoogle
+
+! 7/9/2019 https://ouo.io
+ouo.io##.text-center > div
+ouo.io##[href="https://rev4rtb.com/177186/128"]
+ouo.io##[href="https://pmzer.com/177187/129"]
+ouo.io###g367CB268B1094004A3689751E7AC568FFloatingBanner0
+
+! 7/9/2019 https://www.1377x.to
+www.1377x.to##.tcc_mb > div:nth-of-type(1)
+www.1377x.to###pc-down-wrap
+www.1377x.to##.tcc_mb > div:nth-of-type(2)
+
+! 10/9/2019 https://linkviet.net
+linkviet.net###_pn_1569111165027
+linkviet.net##div.banner-captcha.banner:nth-of-type(1)
+||sailif.com/bnr_xload.php$subdocument
+
+! 20/9/2019 https://dl.blackmod.net
+dl.blackmod.net###content
+dl.blackmod.net###two
+dl.blackmod.net###one
+dl.blackmod.net###intro
+blackmod.net##.js-bottomFixTarget.u-bottomFixer
+
+! 22/9/2019 https://quantrimang.com
+quantrimang.com###ouibounce-modal
+
+! 26/8/2019 https://oko.sh
+oko.sh##.banner-468x60.banner
+oko.sh##center > [href="https://tipsalert.xyz"]
+oko.sh##[src="https://i.imgur.com/csAr7Bf.png"]
+||i.imgur.com/F4Y2q7i.png$image
+||i.imgur.com/u6iyMx4.png$image
+oko.sh##[href="http://sundhopen.site/irYVmWipkXnzo9/12656"]
+
+! 15/10/2019 https://tapchigamethu.site
+tapchigamethu.site##center:nth-of-type(1)
+tapchigamethu.site##.mh-header
+
+! 9/11/2019 https://nextdeshbhakt.com
+nextdeshbhakt.com##.uysaiic
+nextdeshbhakt.com##center
+
+! 12/11/2019 https://aii.sh
+aii.sh##.opacity_wrapper
+aii.sh##.banner-captcha.banner
+aii.sh##center:nth-of-type(2)
+aii.sh##center:nth-of-type(3)
+aii.sh##.box-main > [href^="http://mob1ledev1ces.com/r/"]
+||mob1ledev1ces.com
+
+! 16/11/2019 https://techbeast.xyz
+techbeast.xyz##.content
+techbeast.xyz##.r-bg
+
+! 26/12/2019 https://www.file-up.org
+||www.mb01.com/getimage.asp?a=349014&m=2832&o=10547&i=135616.dat$image
+||www1.ipage.com/affiliate/banners/885$image
+www.file-up.org##.blocktxt
+
+! 26/12/2019 https://prorebal.com
+prorebal.com##p
+prorebal.com##ul
+prorebal.com##h2
+prorebal.com##.blog-item
+
+! 27/12/2019 https://hsisoft.com
+hsisoft.com##p
+hsisoft.com##ul
+hsisoft.com##h2
+hsisoft.com##.page-header
+
+! 2/1/2020 https://www.reddit.com
+www.reddit.com##div.SubredditVars-r-Piracy:nth-of-type(4)
+
+! 7/1/2020 https://vuighe.tv
+vuighe.tv##.class_quangcao_benphai
+
+! 22/1/2020 https://uploadfree.info
+uploadfree.info##.file-box
+
+! 22/1/2020 https://www.uploadship.com
+www.uploadship.com##div.row:nth-of-type(4)
+www.uploadship.com##div.file-box:nth-of-type(3)
+www.uploadship.com##.download > center:nth-of-type(1)
+www.uploadship.com##.upl.col-sm-12
+www.uploadship.com##div.file-box:nth-of-type(8)
+www.uploadship.com##div.file-box:nth-of-type(7)
+www.uploadship.com##div.file-box:nth-of-type(4)
+www.uploadship.com##div:nth-of-type(1) > div:nth-of-type(2) > div.row:nth-of-type(1)
+
+
+! 3/2/2020 https://memoryhackers.org
+
+! 15/3/2020 https://win10.vn
+win10.vn###ignielAdBlock
+
+! 15/3/2020 http://khophimle.com
+khophimle.com##.ads_sticky_bottom
+khophimle.com##.popUpBannerBox
+khophimle.com###fanback
+! 15/3/2020 https://www.dongphim.net
+www.dongphim.net##.asidebar5e6e352d3d05fds
+
+! 15/3/2020 http://www.phimmoi.net
+www.phimmoi.net##.col-left > .ad-300
+
+! 15/3/2020 https://phim18.vip
+phim18.vip##.DvrCn
+
+! 15/3/2020 https://phimvip.com
+phimvip.com##.banner1
+
+! 22/3/2020 kimochi.info
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=kimochi.info
+
+! 24/3/2020 https://forum.sbenny.com
+forum.sbenny.com##.p-body-inner > div:nth-of-type(1) > div
+forum.sbenny.com##.js-replyNewMessageContainer.block-body > div.message > .message-inner
+
+! 28/3/2020 https://oxy.st
+oxy.st###block_ads_9
+oxy.st##[href^="http://advertisesimple.info/c/7"]
+
+! 1/4/2020 https://vuviphimmoi.com
+vuviphimmoi.com###divFLRARight
+vuviphimmoi.com###divFLRALeft
+vuviphimmoi.com##.code-block-18.code-block
+
+! 2/4/2020 https://showbua.tv
+showbua.tv##[href^="https://affiliate.bong90.net/"]
+showbua.tv##.bannerleftvaright
+
+! 9/4/2020 watchpornfree.info
+
+! 10/4/2020 expertvn.com
+@@||vnhax.expertvn.com/ads.js$script,domain=vnhax.expertvn.com
+@@||expertvn.com/ads.js$script,1p
+
+! 10/4/2020 https://hentaivn.net
+hentaivn.net###over
+hentaivn.net##.block-right
+hentaivn.net##.div_qc
+
+! 10/4/2020 https://fitgirlrepacks.co
+fitgirlrepacks.co###_pn_1586503243423
+fitgirlrepacks.co###_pn_1586515634365
+fitgirlrepacks.co###_pn_1593132092002
+fitgirlrepacks.co###_pn_1594710377418
+
+! 11/4/2020 http://www.nosteam.ro
+www.nosteam.ro###drop > div
+
+! 12/4/2020 taix8.club
+||cdn.livechatinc.com^
+
+! 12/4/2020 https://baprang.tv
+baprang.tv###pc-catfix
+
+! 12/4/2020 https://www.mofos.com
+www.mofos.com##div.eenphB.sc-1fep8qc-0:nth-of-type(6)
+||assets-land-ht.contentdef.com/P1TOUR/MF/mf_default_v0/catfish/pc/catfish.png$image
+
+
+! 15/4/2020 https://phanmemgoc.com
+phanmemgoc.com##ins.adsbygoogle
+phanmemgoc.com##.main-container > p
+phanmemgoc.com##del > p
+||phanmemgoc.com/wp-content/themes/mts_best/chuyen-huong/images/chuyen-huong.gif$image
+
+! 17/4/2020 https://m.listwale.com
+m.listwale.com##h2
+m.listwale.com##p
+m.listwale.com##ul
+m.listwale.com##.AIo6Bym7T
+||i.ibb.co/T1k6SbD/Download-Now-Button-PNG-Free-Download.png$image
+m.listwale.com##.box-main > .banner-captcha.banner
+||i.ibb.co/GRPMxtD/Whats-App-Image-2020-04-13-at-12-27-15-AM.jpg$image
+m.listwale.com##center > [href^="https://mob1ledev1ces.com/r/"]
+
+! 18/4/2020 https://www.vnhax.net
+www.vnhax.net###ads-blog
+
+! 18/4/2020 ouo.io
+||zap.buzz^$subdocument,domain=ouo.io
+
+! 18/4/2020 islandmob.com
+||islandmob.com^$script
+||codedexchange.com^
+
+! 19/4/2020 artandand.online
+||artandand.online^
+
+! 19/4/2020 justmineit.com
+||k1.justmineit.com^
+
+! 19/4/2020 pdf-maker.com
+||install.pdf-maker.com^
+
+! 6/5/2020 ouo.io
+
+||displayvertising.com^$script
+
+||bcuuipewdz.com^
+
+! 6/5/2020 linkme.online
+||egfqtvewksktz.com^
+
+! 14/5/2020 https://www.unknowncheats.me
+www.unknowncheats.me###ab_notice3
+www.unknowncheats.me###ab_notice4
+www.unknowncheats.me###ab_notice1
+www.unknowncheats.me###ab_notice2
+
+
+! 15/5/2020 https://taiv8.com
+||taiv8.com$image
+
+! 15/5/2020 https://katfile.com
+###onesignal-popover-container
+
+! 17/5/2020 https://www.file-upload.com
+www.file-upload.com##.blocktxt
+
+
+! 24/5/2020 1shortlink.com
+@@||pagead2.googlesyndication.com^$script,domain=1shortlink.com
+
+! 29/5/2020 razorphim.com
+
+||syndication.exdynsrv.com^
+razorphim.com##center#ads-Zbet:nth-of-type(2)
+||razorphim.com/wp-content/uploads/2020/05/CHO-THUE-QUANG-CAO-250-600.png$image
+razorphim.com###onesignal-slidedown-dialog
+
+
+! 15/6/2020 skidrowcodex.net
+||ws.sharethis.com^$script
+||iclickcdn.com^$script
+||c.adsco.re^$script
+||d2kk0o3fr7ed01.cloudfront.net^$script
+
+! 17/6/2020 https://shrinkme.io
+shrinkme.io##.text-left
+
+! 17/6/2020 https://iir.ai
+iir.ai##.text-left
+
+! 17/6/2020 https://shrinkme.io
+shrinkme.io##ol
+
+! 28/6/2020 https://memoryhackers.org
+memoryhackers.org##.notice-content
+
+! 11/7/2020 https://ouo.io
+ouo.io##div:nth-of-type(7)
+
+! 11/7/2020 https://iir.ai
+iir.ai###link-view > center
+
+! 11/7/2020 https://linkjust1.com
+linkjust1.com##.jumbotron > center > p
+
+! 11/7/2020 https://linkjust1.com
+linkjust1.com###_pn_1594471754529
+
+! 11/7/2020 https://forexlap.com
+forexlap.com###_pn_1594471782137
+forexlap.com###content
+
+! 14/7/2020 https://pcgamestorrents.com
+pcgamestorrents.com##.v52gTiCaUu
+pcgamestorrents.com##.q9F7fdYiScFy3aub
+
+! 14/7/2020 https://vn-z.vn
+vn-z.vn##.show-prompt.sendpulse-backdrop-info
+
+! 22/7/2020 https://shortzon.com
+shortzon.com##div:nth-of-type(14)
+shortzon.com##.Interstitial.kmm7zMlfwglcx
+shortzon.com##.OfH7QneEfkDITRI
+shortzon.com###_no-clickjacking-0 > div:nth-of-type(1)
+
+! 23/7/2020 https://daominhha.com
+daominhha.com##.mt-0.nk-post-text > [href^="https://game.taib52.club/"]
+daominhha.com###Link_vao_B52_Link_du_phong_1__Link_du_phong_2
+
+! 27/7/2020 https://anhdvboot.com
+anhdvboot.com###onesignal-slidedown-container
+
+! 4/8/2020 https://megalink.vip
+megalink.vip##.cMmid9T3vxNf.tKXzHKl9qzcISDZE
+megalink.vip##html > div
+megalink.vip##.aBTZOMPgSNkLA
+megalink.vip##center > p
+megalink.vip##.MqSFQjiiA
+megalink.vip###__bgd_link
+||interst12.com/$subdocument
+||d1qggq1at2gusn.cloudfront.net/dbi$image
+
+! 2020-09-26 https://sbenny.com
+sbenny.com##.cc-color-override-1827372716.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+! 2020-10-02 https://www.pornhub.com
+www.pornhub.com###pb_template
+
+! 2020-10-02 https://razorphim.com
+razorphim.com##[href="https://www.facebook.com/RazorSubteam/"] > .desktop
